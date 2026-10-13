@@ -36,6 +36,19 @@ The project follows a data-driven workflow:
 5. **Scenario Analysis:** Compare baseline estimates with a hypothetical 10% increase in domestic production to explore possible changes in import requirements.
 6. **Data Visualization:** Use Power BI reporting to communicate findings and make the results easier to interpret.
 
+
+## Dashboard Preview
+
+<p align="center">
+  <img src="images/Home.png" width="48%" alt="Dashboard Home" />
+  <img src="images/Food%20Commodities.png" width="48%" alt="Food Commodities Dashboard" />
+</p>
+
+<p align="center">
+  <img src="images/Fertilizers.png" width="48%" alt="Fertilizers Dashboard" />
+  <img src="images/Iron%20Trade.png" width="48%" alt="Iron Trade Dashboard" />
+</p>
+
 ### Machine Learning Component
 
 The project includes a machine learning component designed to forecast production and import trends through 2030 for agriculture, fertilizers, and iron and steel.
